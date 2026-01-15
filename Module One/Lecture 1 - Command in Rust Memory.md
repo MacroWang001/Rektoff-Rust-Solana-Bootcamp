@@ -1,6 +1,6 @@
 # Commands
 
-**Note:** The files comes from Daniel Cumming's github repo.[^1]
+**Note:** This document is a reference to Daniel’s GitHub repository.[^1]
 
 Some commands to inspect `.data`, `.bss`, and `.rodata` sections in a compiled Rust (or C) program using standard Linux command-line tools. You can use `grep` on the output files to search for your uniquely named string literals or variable names, such as `FIRST_CONST` or `SECOND`, to confirm where they are stored in memory. To learn more about the commands you can use run `man readelf`, or `man objdump` to read the manuals - or you could use google.
 
@@ -60,3 +60,4 @@ Summary of segment purposes:
 
 
 [^1]: https://github.com/dkcumming/statics.
+
