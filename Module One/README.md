@@ -16,11 +16,9 @@
   
 - [`https://bucolic-semifreddo-8715aa.netlify.app/`](https://bucolic-semifreddo-8715aa.netlify.app/)
 
-[`https://bucolic-banoffee-04c21b.netlify.app/static-memory`](https://bucolic-banoffee-04c21b.netlify.app/)
-
 <div align=center>
     <img
-    src="../images/memory.jpg" alt="Rectoff logo"
+    src="../images/ownership.png" alt="Rust Visualizer"
     height = 400
     width = 600
     />
