@@ -133,7 +133,7 @@ The original Rust compiler pipeline (that which is used to compile the agave val
 
 The solana Rust compiler pipeline for sBPF (notice most of the components are the same):
 
-![rustc_diagram_solana_dark.png](https://www.notion.so/Lecture-5-Solana-Virtual-Machine-SVM-Memory-and-Execution-2f4f402e5b9780fcb540ef0b86df9a9d?source=copy_link#2f4f402e5b9781169ed7e1f4595bc1b9)
+![rustc_diagram_solana_dark.png](../images/rustc_diagram_v2_dark.png)
 
 ### Limitations
 
@@ -383,5 +383,6 @@ I encourage everyone to read these two great articles on SVM (at your own pace -
 - [Under the Hood of Solana Program Execution From Rust Code to SBF Bytecode](https://ubermensch.blog/under-the-hood-of-solana-program-execution-from-rust-code-to-sbf-bytecode), Farouk Elalem, Jun 11, 2025
 
 - [The Solana eBPF Virtual Machine](https://www.anza.xyz/blog/the-solana-ebpf-virtual-machine), Joe Caulfield, Oct 14, 2024
+
 
 
