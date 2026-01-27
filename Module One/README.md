@@ -19,7 +19,7 @@
 <div align=center>
     <img
     src="../images/ownership.png" alt="Rust Visualizer"
-    height = 400
+    height = 600
     width = 600
     />
 </div>
