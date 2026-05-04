@@ -1,7 +1,7 @@
 # Rektoff-Solana-Bootcamp-Cohort3
 
 
-###  Life is about accepting that you are normal, and then finding a way to be happy with that.
+###  Happy Graduation.
 
 
 <div align="center">
